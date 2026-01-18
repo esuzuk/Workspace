@@ -1,0 +1,9 @@
+yfinance>=0.2.45
+gspread>=6.1.0
+google-auth>=2.35.0
+google-auth-oauthlib>=1.2.1
+google-auth-httplib2>=0.2.0
+pandas>=2.2.0
+numpy>=1.26.0
+pandas-ta>=0.3.14b0
+python-dotenv>=1.0.1

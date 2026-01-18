@@ -1,0 +1,27 @@
+# FX自動売買システム - 依存パッケージ
+# Python 3.10+ 推奨
+
+# データ処理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 非同期HTTP通信
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# 環境変数管理
+python-dotenv>=1.0.0
+
+# WebSocket（Saxo Bank ストリーミング用）
+websockets>=12.0
+
+# 通知（オプション）
+# slack-sdk>=3.23.0
+# line-bot-sdk>=3.5.0
+
+# 開発・テスト用
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# isort>=5.12.0
+# mypy>=1.5.0

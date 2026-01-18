@@ -1,0 +1,11 @@
+# CrewAI 自律型AIエージェントシステム 依存関係
+# Python 3.10+ 推奨
+
+# CrewAI フレームワーク（メインライブラリ）
+crewai>=0.86.0
+
+# CrewAI ツール（Web検索など）
+crewai-tools>=0.17.0
+
+# 環境変数管理
+python-dotenv>=1.0.0

@@ -1,0 +1,16 @@
+# 日本株分析アプリ 依存関係
+# Python 3.8+ 推奨
+
+# データ取得
+yfinance>=0.2.28
+
+# データ分析
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 可視化
+plotly>=5.17.0
+streamlit>=1.28.0
+
+# その他
+python-dateutil>=2.8.2
